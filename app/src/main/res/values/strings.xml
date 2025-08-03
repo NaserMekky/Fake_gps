@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">GPS Pro</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">الرئيسية</string>
+    <string name="nav_map">الخريطة</string>
+    <string name="nav_settings">الإعدادات</string>
+    
+    <!-- Home Fragment -->
+    <string name="status_active">الحالة: نشط</string>
+    <string name="status_inactive">الحالة: متوقف</string>
+    <string name="start_simulation">بدء المحاكاة</string>
+    <string name="stop_simulation">إيقاف المحاكاة</string>
+    <string name="current_location">الموقع الحالي</string>
+    <string name="random_location">موقع عشوائي</string>
+    <string name="favorite_locations">المفضلة</string>
+    
+    <!-- Location -->
+    <string name="latitude">خط العرض</string>
+    <string name="longitude">خط الطول</string>
+    <string name="address">العنوان</string>
+    <string name="address_optional">العنوان (اختياري)</string>
+    
+    <!-- Messages -->
+    <string name="location_started">تم بدء محاكاة الموقع</string>
+    <string name="location_stopped">تم إيقاف محاكاة الموقع</string>
+    <string name="enter_coordinates">يرجى إدخال الإحداثيات</string>
+    <string name="invalid_latitude">خط العرض يجب أن يكون بين -90 و 90</string>
+    <string name="invalid_longitude">خط الطول يجب أن يكون بين -180 و 180</string>
+    <string name="invalid_numbers">يرجى إدخال أرقام صحيحة</string>
+    <string name="permissions_required">الأذونات مطلوبة لتشغيل التطبيق</string>
+    <string name="current_location_obtained">تم الحصول على الموقع الحالي</string>
+    
+    <!-- Developer Options -->
+    <string name="enable_mock_location">تفعيل الموقع الوهمي</string>
+    <string name="mock_location_message">يجب تفعيل خيار الموقع الوهمي في إعدادات المطور لاستخدام هذا التطبيق.</string>
+    <string name="enable_developer_options">تفعيل خيارات المطور</string>
+    <string name="developer_options_message">يجب تفعيل خيارات المطور واختيار هذا التطبيق كتطبيق الموقع الوهمي.</string>
+    <string name="open_settings">فتح الإعدادات</string>
+    <string name="cancel">إلغاء</string>
+    
+    <!-- Notification -->
+    <string name="notification_title">محاكاة الموقع نشطة</string>
+    <string name="notification_text">الموقع: %1$s, %2$s</string>
+    <string name="notification_stop">إيقاف</string>
+    
+    <!-- Cities -->
+    <string name="riyadh">الرياض، المملكة العربية السعودية</string>
+    <string name="jeddah">جدة، المملكة العربية السعودية</string>
+    <string name="dammam">الدمام، المملكة العربية السعودية</string>
+    <string name="mecca">مكة المكرمة، المملكة العربية السعودية</string>
+    <string name="medina">المدينة المنورة، المملكة العربية السعودية</string>
+    <string name="random_location_text">موقع عشوائي</string>
+    
+    <!-- Info -->
+    <string name="important_info">معلومات مهمة</string>
+    <string name="info_text">• تأكد من تفعيل خيارات المطور\n• اختر هذا التطبيق كتطبيق الموقع الوهمي\n• استخدم إحداثيات صحيحة للحصول على أفضل النتائج</string>
+    
+    <!-- Titles -->
+    <string name="simulation_status">حالة المحاكاة</string>
+    <string name="set_location">تحديد الموقع</string>
+</resources>
+
