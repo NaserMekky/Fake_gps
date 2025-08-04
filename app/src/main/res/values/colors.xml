@@ -33,7 +33,7 @@
     
     <!-- Bottom Navigation Color State -->
 
-    <!-- <color name="bottom_nav_color">@color/bottom_nav_color_selector</color> -->
+    <!-- <color name="bottom_nav_color">@color/bottom_nav_color_selector</color> -->    
 
     <!-- Button Colors -->
     <color name="button_primary">#2196F3</color>
@@ -48,8 +48,7 @@
     <color name="semi_transparent">#80000000</color>
 </resources>
 
-
-E0E0</color>
+0</color>
     
     <!-- Transparent -->
     <color name="transparent">#00000000</color>
