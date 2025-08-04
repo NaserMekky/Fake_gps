@@ -32,7 +32,7 @@
     <color name="bottom_nav_unselected">#B3E5FC</color>
     
     <!-- Bottom Navigation Color State -->
-    <color name="bottom_nav_color">@color/bottom_nav_color_selector</color>
+    <!-- <color name="bottom_nav_color">@color/bottom_nav_color_selector</color> --!>
     
     <!-- Button Colors -->
     <color name="button_primary">#2196F3</color>
